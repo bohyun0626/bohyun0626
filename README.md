@@ -12,23 +12,22 @@
 #### - 2020.03 ~ 2024.08 (Graduated)
 
 #### - KT Aivle School (DX트랙)
-#### - 2025.03 ~
+#### - 2025.03 ~ 
 
 <br/>
  
 ## 🏢 Career
 
-| PERIOD | COMPANY | POSITION | JOB |
+| PERIOD | COMPANY | POSITION | RESPONSIBILITIES |
 | ------- | ------- |  ------- |  ------- |
-| 2024.01 ~ 2024.08 | 영림원소프트랩 | Intern | - ERP 화면 개발 (구매/영업 프로세스 기반)<br>- 고객사 요구사항 기반 기능 커스터마이징<br>- SQL 저장 프로시저(SP) 신규/수정 개발<br>- 데이터 처리 로직 구현 및 오류 분석 | 
-| 2024.09 ~ 2025.01 | 영림원소프트랩 | Junior Research Engineer | ERP 개발 및 유지보수 |
+| 2024.01 ~ 2024.08 | 영림원소프트랩 | Intern | - ERP 화면 개발 (업무 프로세스 기반)<br>- 고객사 요구사항 기반 기능 커스터마이징<br>- SQL 저장 프로시저(SP) 신규/수정 개발<br>- 데이터 처리 로직 구현 및 오류 분석 | 
+| 2024.09 ~ 2025.01 | 영림원소프트랩 | Junior Research Engineer | - ERP 시스템 개발 및 유지보수<br>- 저장 프로시저(SP) 성능 최적화 및 로직 개선<br>- 구버전 ERP → 신버전 컨버전 및 데이터 마이그레이션<br>- MES 시스템과의 연동 개발 및 데이터 처리 자동화 |
 
 <br/>
 
 ## 🧩 Skills  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <br/>
 
