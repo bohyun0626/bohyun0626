@@ -9,10 +9,11 @@
 
 ## 📖 Educations
 #### - Dongguk Univ. 경영정보학(MIS)
-#### - 2020.03 ~ 2024.08 (Graduated)
+####   2020.03 ~ 2024.08 (Graduated) 3.2/4.5
+<br>
 
 #### - KT Aivle School (DX트랙)
-#### - 2025.03 ~ 
+####   2025.03 ~ 
 
 <br/>
  
