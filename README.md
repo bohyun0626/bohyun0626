@@ -45,7 +45,7 @@
 <br/>
 
 ## 🖥️ Projects
-## 🧩 MES 연동을 위한 SP 로직 개발 및 데이터 자동 동기화
+### 🧩 1. MES 연동을 위한 SP 로직 개발 및 데이터 자동 동기화
 
 **📅 기간:** 2025.01 (1개월)  
 **🛠 사용 기술:** SSMS (SQL Server Management Studio)
