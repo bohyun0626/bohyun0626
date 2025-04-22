@@ -8,17 +8,15 @@
 <br/>
 
 ## 📖 Educations
-### 🎓 Dongguk University
-- **Major:** Management Information Systems (MIS)  
-- **Period:** Mar 2020 – Aug 2024  
-- **Status:** Graduated  
+#### 🎓 Dongguk University
+- **Major:** 경영정보학과 (MIS)  
+- **Period:** 2020.03 - 2024.08
+- **Status:** 졸업 
 - **GPA:** 3.2 / 4.5  
 
----
-
-### 📘 KT Aivle School (K-Digital Training)
+#### 📘 KT Aivle School (K-Digital Training)
 - **Track:** DX 트랙 (Digital Transformation)  
-- **Period:** Mar 2025 – (Ongoing) 
+- **Period:** 2025.03 – (Ongoing) 
 
 <br/>
  
