@@ -33,22 +33,23 @@
 <br/>
 
 ## 🧩 Skills  
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><br>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
-| Languages | Speaking | Reading | Writing |
-| ------- | ------- |  ------- |  ------- |
-| 영어 | Intermediate(중상) | Advanced(상) | Advanced(상) |
-| 중국어 | Advanced(상) | Advanced(상) | Intermediate(중상) |
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=MSSQL&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <br/>
 
 ## 📜 Certifications
-#### - TOEIC 925점  (2023.08.27)
-#### - SQLD  
-#### - 정보처리기사 필기
+#### - SQL개발자(SQLD)   (2023.04.14)
 
 <br/>
+
+## 🌐 Languages
+#### - TOEIC 925점  (2023.08.27)
+| Languages | Speaking | Reading | Writing |
+| ------- | ------- |  ------- |  ------- |
+| 영어 | Intermediate(중상) | Advanced(상) | Advanced(상) |
+| 중국어 | Advanced(상) | Advanced(상) | Intermediate(중상) |
 
 ## 🖥️ Projects
 
