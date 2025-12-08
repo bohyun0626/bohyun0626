@@ -44,7 +44,7 @@
 <br/>
 
 ## 🌐 Languages
-#### - TOEIC 925점  (2023.08.27)
+#### - TOEIC Speaking Test Advanced Low(AL) (2025.11.01)
 | Languages | Speaking | Reading | Writing |
 | ------- | ------- |  ------- |  ------- |
 | 영어 | Intermediate(중상) | Advanced(상) | Advanced(상) |
