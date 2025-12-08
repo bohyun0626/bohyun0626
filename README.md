@@ -39,12 +39,12 @@
 <br/>
 
 ## 📜 Certifications
-#### - SQL개발자(SQLD)   (2023.04.14)
+#### - SQL개발자(SQLD)       합격             (2023.04.14)
+#### - TOEIC Speaking Test   Advanced Low(AL) (2025.11.01)
 
 <br/>
 
 ## 🌐 Languages
-#### - TOEIC Speaking Test Advanced Low(AL) (2025.11.01)
 | Languages | Speaking | Reading | Writing |
 | ------- | ------- |  ------- |  ------- |
 | 영어 | Intermediate(중상) | Advanced(상) | Advanced(상) |
